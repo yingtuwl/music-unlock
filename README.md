@@ -1,4 +1,4 @@
-# Unlock Music 音乐解锁 (React)
+# Music Unlock  音乐解锁 (React)
 
 ⚠️ 手机端浏览器支持有限，请使用最新版本的 Chrome 或 Firefox 官方浏览器。
 
